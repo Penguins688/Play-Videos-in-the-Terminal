@@ -20,3 +20,6 @@ Enter filepath: <Your file here>
 ```console
 Enter scale percentage (e.g., 50 for 50%): <Your scale percentage here>
 ```
+
+**Demo:**<br>
+![Demo:](demo.gif)
