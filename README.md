@@ -21,5 +21,8 @@ Enter filepath: <Your file here>
 Enter scale percentage (e.g., 50 for 50%): <Your scale percentage here>
 ```
 
-**Demo:**<br>
-![Demo:](demo.gif)
+**Terminal Version:**<br>
+<img src="demo.gif" alt="Demo" width="262" height="194">
+
+**Original Version:**<br>
+![Demo2](demo2.gif)
